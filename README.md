@@ -1,20 +1,20 @@
 ### Hi there 👋
-I'm Alex and I love Python😊 
-(25 y.o.)
-I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.
+I'm Alex and I love Python😊 <br>
+<i>(25 y.o.)</i><br>
+I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.<br>
 I plan to move to IT area on the post "Python developer".
 
-My core competencies are:
+<b>My core competencies are:</b>
  - git, github;
  - python 3.7+;
  - django;
  - html, css.
 
-<img src="948371d41ac655ce3264c000a207dca7.gif" alt='Тут картинка'>
+<img src="itsme.gif" alt='Тут картинка' style="width: 30%">
 
-📫 My contacts:
+My contacts📫 :<br>
     Tel.: +7(995)408-90-32<br>
-    Telegram: https://t.me/Tsoy4ik96
+    Telegram: https://t.me/Tsoy4ik96<br>
 
 All major projects and templates are presented below. Watch and enjoy!
 <!--
