@@ -10,7 +10,7 @@ I plan to move to IT area on the post "Python developer".
  - django;
  - html, css.
 
-<img src="itsme.gif" alt='Тут картинка' style="width: 30%">
+<img src="itsme.gif" alt='Тут картинка' style="width: 40%; float: rignt;">
 
 My contacts📫 :<br>
     Tel.: +7(995)408-90-32<br>
