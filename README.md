@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="background-image: url(https://druzhniy-center.ru/wp-content/uploads/8/f/9/8f970e878337c2170713b4f20eafb065.jpeg)">I'm Alex and I love Python😊 
+I'm Alex and I love Python😊 
 (25 y.o.)
 I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.
 I plan to move to IT area on the post "Python developer".
@@ -8,10 +8,15 @@ My core competencies are:
  - git, github;
  - python 3.7+;
  - django;
- - html, css;
+ - html, css.
+
 <img src="https://druzhniy-center.ru/wp-content/uploads/8/f/9/8f970e878337c2170713b4f20eafb065.jpeg" alt='Тут картинка'>
+
+📫 My contacts:
+    Tel.: +7(995)408-90-32
+    Telegram: https://t.me/Tsoy4ik96
+
 All major projects and templates are presented below. Watch and enjoy!
-</div>
 <!--
 **TsoyAlV/TsoyAlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
