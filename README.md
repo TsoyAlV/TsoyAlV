@@ -10,10 +10,10 @@ My core competencies are:
  - django;
  - html, css.
 
-<img src="https://druzhniy-center.ru/wp-content/uploads/8/f/9/8f970e878337c2170713b4f20eafb065.jpeg" alt='Тут картинка'>
+<img src="948371d41ac655ce3264c000a207dca7.gif" alt='Тут картинка'>
 
 📫 My contacts:
-    Tel.: +7(995)408-90-32
+    Tel.: +7(995)408-90-32<br>
     Telegram: https://t.me/Tsoy4ik96
 
 All major projects and templates are presented below. Watch and enjoy!
