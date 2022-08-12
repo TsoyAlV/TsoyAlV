@@ -13,7 +13,7 @@ I plan to move to IT area on the post "Python developer".
  - django;
  - html, css.
 
-My contacts📫 :<br>
+<b>My contacts📫 :</b><br>
     Tel.: +7(995)408-90-32<br>
     Telegram: https://t.me/Tsoy4ik96<br>
 
