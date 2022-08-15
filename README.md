@@ -5,7 +5,6 @@
 I'm Alex and I love Python😊 <br>
 <i>(25 y.o.)</i><br>
 I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.<br>
-I plan to move to IT area on the post "Python developer".
 
 <b>My core competencies are:</b>
  - git, github;
