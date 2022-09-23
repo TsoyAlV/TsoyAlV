@@ -11,6 +11,7 @@ I have finished a technical university in the Moscow Power Enginering Univercity
  - python 3.7+;
  - django;
  - html, css.
+ - sql
 
 <b>My contacts📫 :</b><br>
     Tel.: +7(995)408-90-32<br>
