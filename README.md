@@ -7,11 +7,20 @@ I'm Alex and I love Python😊 <br>
 I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.<br>
 
 <b>My core competencies are:</b>
- - git, github;
+Разработка:
+ - git, github, gitlab;
  - python 3.7+;
  - django;
  - html, css.
- - sql
+
+Машинное обучение:
+ - TensorFlow
+ - Catboost/XGBoost/LightGBM
+ - Классические методы машинного обучения
+ - Apache Airflow
+ - Docker
+ - FastAPI
+ - SQL
 
 <b>My contacts📫 :</b><br>
     Tel.: +7(995)408-90-32<br>
