@@ -13,8 +13,6 @@ Developing:
  - python 3.7+;
  - django;
  - html, css.
-<br>
-<br>
 Machine Learning:
  - TensorFlow
  - Catboost/XGBoost/LightGBM
