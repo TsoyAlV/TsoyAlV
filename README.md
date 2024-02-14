@@ -6,14 +6,13 @@ I'm Alex and I love Python😊 <br>
 <i>(27 y.o.)</i><br>
 I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.<br>
 
-<b>My core competencies are:</b>
-<br>
-Developing:
+<b>My core competencies "Developing":</b>
  - git, github, gitlab;
  - python 3.7+;
  - django;
  - html, css.
-Machine Learning:
+
+<b>My core competencies "Machine Learning":</b>
  - TensorFlow
  - Catboost/XGBoost/LightGBM
  - Классические методы машинного обучения
