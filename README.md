@@ -3,7 +3,7 @@
 
 <img src="itsme.gif" alt='Тут картинка' style="width: 40%; margin-right: auto;">
 I'm Alex and I love Python😊 <br>
-<i>(25 y.o.)</i><br>
+<i>(27 y.o.)</i><br>
 I have finished a technical university in the Moscow Power Enginering Univercity in the field of "Power Engineering"👷.<br>
 
 <b>My core competencies are:</b>
